@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782507785672",
+    "project_id": "dbcrudlibreria",
+    "storage_bucket": "dbcrudlibreria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782507785672:android:94b84c0f9d6f5ef17a54fd",
+        "android_client_info": {
+          "package_name": "com.example.crudlibreria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaoRoCqGlUcVWIo8ZnscGowHsGCxvEGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
